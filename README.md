@@ -14,5 +14,7 @@ Determine the angle of the robot's feet
 
 ![Word‪ - مسار ميكانيكا  -  وضع التوافق 7_22_2022 12_21_47 PM](https://user-images.githubusercontent.com/109483389/180408804-60016711-70ee-470f-88b3-a8d829a76cc2.png)
 
-![1f93c2a3-9b7d-4d45-aaa4-97db6d1d2735](https://user-images.githubusercontent.com/109483389/180412091-b41884cf-6288-44fb-99cc-050e7324583e.jpg)
 
+
+
+![1f93c2a3-9b7d-4d45-aaa4-97db6d1d2735](https://user-images.githubusercontent.com/109483389/180412486-69dcfd43-a6bf-415e-bd9e-5149dfadd1f8.jpg)
