@@ -1,7 +1,7 @@
 # TASK1
 This is the first Mechanical task at smart methods (Calculating The Rotation Degree Of Robotic Leg)
 # Calculating The Rotation Degree Of Robotic Leg)
-We created this stick model to measure the degree of rotation.
+We created this stick model to measure the degree of rotation By using blender.
 ![Blender  C__Users_FAY_OneDrive - Jouf Girls_سطح المكتب_مسار ميكانيكي_task1 blend  7_22_2022 9_47_55 AM](https://user-images.githubusercontent.com/109483389/180408625-dd27c819-c3a6-4f3f-953d-724d44cef802.png)
 
 
